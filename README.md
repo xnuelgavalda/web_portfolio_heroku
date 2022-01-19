@@ -23,7 +23,7 @@ That portfolio includes almost everything you want to show. At first, your name,
 Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where 
 it shows some recent work. And at the bottom it has a form, and at the end with a footer.
 
-[preview img](/assets/img/ portfolio_screenshot.png)
+![preview img](/assets/img/portfolio_screenshot.png)
 
 ## Technologies Used
 - HTML5
