@@ -23,7 +23,6 @@ That portfolio includes almost everything you want to show. At first, your name,
 Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where 
 it shows some recent work. And at the bottom it has a form, and at the end with a footer.
 
-![preview img](/assets/img/portfolio_screenshot.png)
 
 ## Technologies Used
 - HTML5
@@ -40,6 +39,8 @@ To deploy the files into Heroku:
 
 ## Deployment
 Project deployed on Heroku: https://xaviers-portfolio.herokuapp.com/
+
+![preview img](/assets/img/portfolio_screenshot.png)
 
 ## Project Status
 Project is: _complete_ 
