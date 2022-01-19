@@ -42,7 +42,6 @@ Project deployed on Heroku: https://xaviers-portfolio.herokuapp.com/
 
 ![preview img](/assets/img/portfolio_screenshot.png)
 
-![ScreenShot](/assets/img/portfolio_screenshot.png)
 
 ## Project Status
 Project is: _complete_ 
