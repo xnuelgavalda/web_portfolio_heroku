@@ -17,7 +17,7 @@
 
 
 ## General Information
-Simple personal web portfolio written in HTML5 and CSS based on the following template shown in [Youtube](https://youtu.be/AKNvTxWOdKw).
+Simple personal web portfolio written in HTML5 and CSS based on the following template shown in [Youtube](https://www.youtube.com/watch?v=AKNvTxWOdKw).
 
 That portfolio includes almost everything you want to show. At first, your name, links to social networks and a great image. 
 Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where 
