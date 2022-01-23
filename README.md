@@ -6,7 +6,7 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
 * [Deployment](#usage)
